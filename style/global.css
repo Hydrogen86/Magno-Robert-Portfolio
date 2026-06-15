@@ -50,6 +50,7 @@ body{
   padding-top: 0;/*4rem will change later*/
 }
 
+
 .main-wrapper{
   --main-wrapper-max-width: 1300px;
   --main-wrapper-padding: 10%;
