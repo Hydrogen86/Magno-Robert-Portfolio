@@ -1,7 +1,7 @@
 @import url('global.css');
 
 .profile-container{
-  height: clamp(500px, 80vh, 730px);
+  height: clamp(700px, 80vh, 730px);
   padding: 2.3rem 10%;
   border-radius: 16px;
   background-color: var(--primary-color);
@@ -13,7 +13,7 @@
 .profile-container .profile-pic{
   border-radius: 16px;
   margin-bottom: 1.5rem;
-  width: clamp(150px, 90vw, 250px);
+  max-width: 26rem;
 }
 
 .profile-container .name{
